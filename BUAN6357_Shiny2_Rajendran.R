@@ -1,5 +1,4 @@
-# BUAN6357 - Shiny Project
-# Adityan Rajendran - AXR180073
+
 
 # Install packages, only if it is not installed
 library(shiny)
