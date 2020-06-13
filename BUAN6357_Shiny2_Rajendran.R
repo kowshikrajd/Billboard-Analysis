@@ -1,5 +1,3 @@
-
-
 # Install packages, only if it is not installed
 library(shiny)
 library(shinyjs)
